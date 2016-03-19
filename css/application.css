@@ -1,0 +1,100 @@
+h1{
+  text-align: center;
+}
+
+table{
+border: 10px groove #bbada0;
+border-collapse: collapse;
+background-color:#bbada0;
+}
+
+td{
+  background-color: #bbada0;
+}
+td td{
+  background-color: #bbada0;
+  font-family: Helvetica neue, sans-serif;
+  font-size: 40px;
+  height: 2em;
+  width: 2em;
+  text-align: center;
+  border: 4px solid transparent;
+}
+
+
+#new-game{
+  display:block;
+  height: 5%;
+  width: 10%;
+  font-size: 20px;
+  font-family: Helvetica neue;
+  text-align: center;
+  margin-left: 45%;
+  margin-top: 1em;
+}
+
+.score{
+  text-align: center;
+  margin-top: 1em;
+}
+
+
+.number0{
+  background-color: #ccc0b3;
+  color: #ccc0b3;
+}
+
+.number2{
+  background-color: #f9f6f2;
+}
+
+.number4{
+  background-color:#ede0c8;
+}
+.number8{
+  background-color:#f2b179;
+  color:white;
+}
+
+.number16{
+  background-color:#f59563;
+  color:white;
+}
+
+.number32{
+  background-color:#f87e69;
+  color:white;
+}
+
+.number64{
+  background-color:#e95937;
+  color:white;
+}
+
+.number128{
+  background-color:#f6e280;
+  color:white;
+}
+
+.number256{
+  background-color:#fdfdbd;
+}
+
+.number512{
+  background-color:#fdfdbd;
+}
+
+.number1024{
+  background-color:#ede0c8
+}
+
+.number2048{
+  background-color:#ede0c8
+}
+
+
+
+table{
+  border-collapse: collapse;
+  margin:auto;
+}
